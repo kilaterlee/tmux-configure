@@ -18,10 +18,10 @@ URL: https://github.com/kilaterlee/Monospaced-fonts-for-tmux
 
 ***  
 ## Select tmux theme  
-You can select the theme in the tmux.conf. For example, fi you would like the green
+You can select the theme in the tmux.conf. For example, if you would like the green
 theme, open the green theme:  
 ```  
-ource-file "${HOME}/./powerline/double/blue.tmuxtheme"  
+#source-file "${HOME}/./powerline/double/blue.tmuxtheme"  
 #source-file "${HOME}/./powerline/double/cyan.tmuxtheme"  
 source-file "${HOME}/./powerline/double/green.tmuxtheme"  
 #source-file "${HOME}/./powerline/double/red.tmuxtheme"  
